@@ -2,9 +2,8 @@
 MATLAB code for estimating and displaying events in spiking activity from laminar data recorded in the Superior Colliculus.
 
 
-‘analysis_#’ functions
-they are the main display and analysis functions of the data across all sessions
-they call subfunctions or rely on saved results of subfunctions named ‘compute_#’.
+‘analysis_#’ functions are the main display and analysis functions of the data across all sessions.
+They call subfunctions or rely on saved results of subfunctions named ‘compute_#’.
 
 analysis_vmi: displays VMI
 
